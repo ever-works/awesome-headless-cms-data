@@ -1,0 +1,13 @@
+name: "Hygraph"
+description: "GraphQL-native headless CMS for federated content architectures for frontend and backend teams. Offers a SaaS platform with content staging, localization, and digital asset management. Free plan for developers with paid team plans."
+source_url: "https://hygraph.com/"
+category: "SaaS Headless CMS"
+tags:
+  - "saas"
+  - "graphql"
+  - "api"
+  - "free-plan"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/hygraph.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://hygraph.com/>\n"
+updated_at: "2026-11-21 02:00"

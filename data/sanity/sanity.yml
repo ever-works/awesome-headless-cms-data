@@ -1,0 +1,13 @@
+name: "Sanity"
+description: "SaaS headless CMS with real-time collaboration and structured content for content teams and developers. Provides a customizable React-based studio and GraphQL/REST APIs. Free tier available with paid usage-based plans."
+source_url: "https://www.sanity.io/"
+category: "SaaS Headless CMS"
+tags:
+  - "saas"
+  - "api"
+  - "free-plan"
+  - "freemium"
+  - "real-time"
+icon_url: "https://icons.duckduckgo.com/ip3/www.sanity.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.sanity.io/>\n"
+updated_at: "2026-11-21 02:00"

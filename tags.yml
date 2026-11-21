@@ -1,0 +1,70 @@
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: api
+  name: "API"
+- id: node-js
+  name: "Node.js"
+- id: free-plan
+  name: "Free Plan"
+- id: saas
+  name: "SaaS"
+- id: freemium
+  name: "Freemium"
+- id: real-time
+  name: "Real-time"
+- id: typescript
+  name: "TypeScript"
+- id: enterprise
+  name: "Enterprise"
+- id: visual-editor
+  name: "Visual Editor"
+- id: sql
+  name: "SQL"
+- id: graphql
+  name: "GraphQL"
+- id: website
+  name: "Website"
+- id: publishing
+  name: "Publishing"
+- id: git
+  name: "Git"
+- id: static-site
+  name: "Static Site"
+- id: free
+  name: "Free"
+- id: markdown
+  name: "Markdown"
+- id: react
+  name: "React"
+- id: next-js
+  name: "Next.js"
+- id: astro
+  name: "Astro"
+- id: free-trial
+  name: "Free Trial"
+- id: paid
+  name: "Paid"
+- id: blog
+  name: "Blog"
+- id: php
+  name: "PHP"
+- id: net
+  name: ".NET"
+- id: hybrid
+  name: "Hybrid"
+- id: personalization
+  name: "Personalization"
+- id: dxp
+  name: "DXP"
+- id: ai-powered
+  name: "AI-Powered"
+- id: omnichannel
+  name: "Omnichannel"
+- id: headless
+  name: "Headless"
+- id: rest
+  name: "REST"
+- id: content-hub
+  name: "Content Hub"

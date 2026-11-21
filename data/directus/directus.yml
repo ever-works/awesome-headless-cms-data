@@ -1,0 +1,13 @@
+name: "Directus"
+description: "Open-source data platform that wraps SQL databases with a headless CMS interface for developers and data teams. Provides REST and GraphQL APIs and a no-code admin app. Self-hosted community edition and paid cloud options."
+source_url: "https://directus.io/"
+category: "Open-Source Headless CMS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "sql"
+  - "api"
+  - "free-plan"
+icon_url: "https://icons.duckduckgo.com/ip3/directus.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://directus.io/>\n- Repository: <https://github.com/directus/directus>\n\nLicense: BSL-1.1.\n"
+updated_at: "2026-11-21 02:00"

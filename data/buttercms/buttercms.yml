@@ -1,0 +1,13 @@
+name: "ButterCMS"
+description: "SaaS headless CMS for adding blogs and pages to websites for developers and marketers. Provides a simple API, CMS dashboard, and SDKs for multiple frameworks. Paid service with a free trial."
+source_url: "https://buttercms.com/"
+category: "SaaS Headless CMS"
+tags:
+  - "saas"
+  - "api"
+  - "blog"
+  - "paid"
+  - "free-trial"
+icon_url: "https://icons.duckduckgo.com/ip3/buttercms.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://buttercms.com/>\n"
+updated_at: "2026-11-21 02:00"

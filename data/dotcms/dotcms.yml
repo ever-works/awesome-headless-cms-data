@@ -1,0 +1,13 @@
+name: "dotCMS"
+description: "Enterprise hybrid headless CMS for content and experience management for large organizations. Supports on-premises, cloud, and SaaS deployment with personalization and workflows. Paid commercial platform."
+source_url: "https://dotcms.com/"
+category: "Enterprise DXP"
+tags:
+  - "enterprise"
+  - "paid"
+  - "hybrid"
+  - "api"
+  - "personalization"
+icon_url: "https://icons.duckduckgo.com/ip3/dotcms.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://dotcms.com/>\n"
+updated_at: "2026-11-21 02:00"

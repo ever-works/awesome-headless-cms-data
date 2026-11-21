@@ -1,0 +1,13 @@
+name: "Keystatic"
+description: "Open-source Git-based CMS for Astro and Next.js projects for frontend developers. Manages content stored locally in a repository with a desktop-style admin UI. Free to use and self-hosted."
+source_url: "https://keystatic.com/"
+category: "Git-Based CMS"
+tags:
+  - "open-source"
+  - "git"
+  - "astro"
+  - "next-js"
+  - "free"
+icon_url: "https://icons.duckduckgo.com/ip3/keystatic.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://keystatic.com/>\n- Repository: <https://github.com/thinkmill/keystatic>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 02:00"

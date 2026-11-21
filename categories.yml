@@ -1,0 +1,12 @@
+- id: open-source-headless-cms
+  name: "Open-Source Headless CMS"
+- id: saas-headless-cms
+  name: "SaaS Headless CMS"
+- id: git-based-cms
+  name: "Git-Based CMS"
+- id: visual-hybrid-cms
+  name: "Visual / Hybrid CMS"
+- id: enterprise-dxp
+  name: "Enterprise DXP"
+- id: static-site-friendly-cms
+  name: "Static-Site Friendly CMS"

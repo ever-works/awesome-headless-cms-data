@@ -1,0 +1,13 @@
+name: "Prismic"
+description: "SaaS headless CMS focused on content editing and website delivery for marketing teams. Provides a document-based editor, REST API, and frontend SDKs. Free plan available with paid subscriptions."
+source_url: "https://prismic.io/"
+category: "SaaS Headless CMS"
+tags:
+  - "saas"
+  - "api"
+  - "free-plan"
+  - "freemium"
+  - "website"
+icon_url: "https://icons.duckduckgo.com/ip3/prismic.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://prismic.io/>\n"
+updated_at: "2026-11-21 02:00"

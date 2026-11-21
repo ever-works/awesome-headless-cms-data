@@ -1,0 +1,13 @@
+name: "Ghost"
+description: "Open-source publishing platform and headless CMS for professional blogs and newsletters for publishers and writers. Self-hostable with a built-in editor and membership features. Free to self-host; paid Ghost Pro cloud service available."
+source_url: "https://ghost.org/"
+category: "Open-Source Headless CMS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "publishing"
+  - "node-js"
+  - "free-plan"
+icon_url: "https://icons.duckduckgo.com/ip3/ghost.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://ghost.org/>\n- Repository: <https://github.com/TryGhost/Ghost>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 02:00"

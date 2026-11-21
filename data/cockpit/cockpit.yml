@@ -1,0 +1,13 @@
+name: "Cockpit"
+description: "Open-source headless CMS written in PHP for self-hosted deployments for developers and small teams. Provides a RESTful API and a modular admin interface for content management. Free to use under an open-source license."
+source_url: "https://getcockpit.com/"
+category: "Open-Source Headless CMS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "php"
+  - "api"
+  - "free"
+icon_url: "https://icons.duckduckgo.com/ip3/getcockpit.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://getcockpit.com/>\n- Repository: <https://github.com/agentepro/cockpit>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 02:00"

@@ -1,0 +1,13 @@
+name: "ApostropheCMS"
+description: "Open-source headless CMS and website builder based on Node.js for developers and content editors. Offers a headless API and an in-context editing interface. Free to self-host with paid support available."
+source_url: "https://apostrophecms.com/"
+category: "Open-Source Headless CMS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "node-js"
+  - "api"
+  - "free-plan"
+icon_url: "https://icons.duckduckgo.com/ip3/apostrophecms.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://apostrophecms.com/>\n- Repository: <https://github.com/apostrophecms/apostrophe>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 02:00"

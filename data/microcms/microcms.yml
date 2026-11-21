@@ -1,0 +1,13 @@
+name: "MicroCMS"
+description: "SaaS headless CMS based in Japan with a REST API and web-based editor for developers and content teams. Designed for building websites and apps. Free tier and paid plans available."
+source_url: "https://microcms.io/"
+category: "SaaS Headless CMS"
+tags:
+  - "saas"
+  - "api"
+  - "rest"
+  - "free-plan"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/microcms.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://microcms.io/>\n"
+updated_at: "2026-11-21 02:00"

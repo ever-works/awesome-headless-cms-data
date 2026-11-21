@@ -1,0 +1,13 @@
+name: "Squidex"
+description: "Open-source headless CMS built on .NET and Azure Functions for developers and DevOps teams. Provides a REST API, asset management, and role-based access control. Self-hosted and free to use."
+source_url: "https://squidex.io/"
+category: "Open-Source Headless CMS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "net"
+  - "api"
+  - "free"
+icon_url: "https://icons.duckduckgo.com/ip3/squidex.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://squidex.io/>\n- Repository: <https://github.com/Squidex/squidex>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 02:00"

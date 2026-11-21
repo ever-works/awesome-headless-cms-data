@@ -1,0 +1,13 @@
+name: "Contentful"
+description: "SaaS headless CMS for delivering content across digital platforms for enterprise and developer teams. Provides REST and GraphQL APIs, webhooks, and extensive integrations. Free plan for small projects with paid tiers for teams."
+source_url: "https://www.contentful.com/"
+category: "SaaS Headless CMS"
+tags:
+  - "saas"
+  - "api"
+  - "enterprise"
+  - "free-plan"
+  - "freemium"
+icon_url: "https://icons.duckduckgo.com/ip3/www.contentful.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.contentful.com/>\n"
+updated_at: "2026-11-21 02:00"

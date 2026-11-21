@@ -1,0 +1,13 @@
+name: "Payload"
+description: "Open-source TypeScript headless CMS and application framework for developers and product teams. Self-hosted with a flexible admin UI and local file storage. Offers a free core and paid cloud services."
+source_url: "https://payloadcms.com/"
+category: "Open-Source Headless CMS"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "typescript"
+  - "api"
+  - "free-plan"
+icon_url: "https://icons.duckduckgo.com/ip3/payloadcms.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://payloadcms.com/>\n- Repository: <https://github.com/payloadcms/payload>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 02:00"

@@ -1,0 +1,13 @@
+name: "TinaCMS"
+description: "Open-source Git-based CMS with a visual editing layer for React and Next.js for web developers. Stores content as Markdown or JSON in a repository. Offers a free self-hosted option and paid Tina Cloud service."
+source_url: "https://tina.io/"
+category: "Git-Based CMS"
+tags:
+  - "open-source"
+  - "git"
+  - "react"
+  - "next-js"
+  - "visual-editor"
+icon_url: "https://icons.duckduckgo.com/ip3/tina.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://tina.io/>\n- Repository: <https://github.com/tinacms/tinacms>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 02:00"

@@ -1,0 +1,13 @@
+name: "Decap CMS"
+description: "Open-source Git-based CMS for static site generators for developers and content editors. Edits content directly in a repository and works with Jekyll, Hugo, and Next.js. Completely free and self-hosted via Git."
+source_url: "https://decapcms.org/"
+category: "Static-Site Friendly CMS"
+tags:
+  - "open-source"
+  - "git"
+  - "static-site"
+  - "free"
+  - "markdown"
+icon_url: "https://icons.duckduckgo.com/ip3/decapcms.org.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://decapcms.org/>\n- Repository: <https://github.com/decaporg/decap-cms>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 02:00"
